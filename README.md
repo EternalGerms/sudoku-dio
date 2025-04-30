@@ -24,11 +24,3 @@ Após a construção, você pode executar o jogo usando:
 ```bash
 java -jar target/sudoku-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
--------------------
-. 6 . | . . . | 2 8 . 
-. . . | 4 1 9 | . . 5 
-. . . | . 8 . | . 7 9 
--------------------
-```
-
-Neste exemplo, pontos (.) representam células vazias que podem ser preenchidas. 
